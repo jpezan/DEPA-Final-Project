@@ -2,13 +2,17 @@
 
 # Analysis of Movies on Streaming Platforms
 
-### Presented by Team Algo: Han-Yi Lin, Vanshika Tibarewalla, Jacqueline Pezan, Muhammad Ali Ahmad
+### Presented by Team Algo: 
+Han-Yi Lin, Vanshika Tibarewalla, Jacqueline Pezan, Muhammad Ali Ahmad
 
-### Project Overview: This project focused on creating a master movie database of movies available on streaming platforms such as Netflix, Amazon, Prime, Disney+, and Hulu by analyzing user and critic ratings from IMDb, Rotten Tomatoes, Metacritic, and others. 
+### Project Overview: 
+This project focused on creating a master movie database of movies available on streaming platforms such as Netflix, Amazon, Prime, Disney+, and Hulu by analyzing user and critic ratings from IMDb, Rotten Tomatoes, Metacritic, and others. 
 
-#### Technologies Used: Python, IMDb API, Excel, OpenRefine, MySQL, Data Grip, Tableau, Powerpoint, Google Slides
+#### Technologies 
+Used: Python, IMDb API, Excel, OpenRefine, MySQL, Data Grip, Tableau, Powerpoint, Google Slides
 
-#### Future Changes: Develop a completely customizable application for user movie/tv recommendations and pitch the idea to link movie ratings to other platforms for enhanced user experience.
+#### Future Changes: 
+Develop a completely customizable application for user movie/tv recommendations and pitch the idea to link movie ratings to other platforms for enhanced user experience.
 
 #### Table of Contents: 
 
